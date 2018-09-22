@@ -1,0 +1,13 @@
+{
+  "name": "id.umsida.crashcourse",
+  "version": "1.0.0",
+  "displayName": "Crash Course",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "~7.0.0"
+  }
+}
